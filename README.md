@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Muqtada Ahmed</h1>
 
-<!--
-**ryanaxmed/ryanaxmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Cyber warrior in the shadows.</em><br>
+  <strong>I don’t follow systems — I study them, break them, and rebuild myself through them.</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Arabic is my first language.  
+- English is my weapon.  
+- Russian sharpens the edge.
+
+> <strong><em>“I am built from collisions — code, thought, and will.”</em></strong>
